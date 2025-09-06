@@ -1,9 +1,9 @@
 {
   "name": "Python 3",
-  "image": "mcr.microsoft.com/vscode/devcontainers/python:3.12-ubuntu-24.04",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11-bullseye",
   "features": {
     "ghcr.io/devcontainers/features/node:1": {
-      "version": "latest"
+      "version": "lts"
     },
     "ghcr.io/devcontainers/features/docker-in-docker:2": {}
   },
@@ -22,5 +22,6 @@
         "chat.mcp.enabled": true
       }
     }
-  }
+  },
+  "remoteUser": "vscode"
 }
