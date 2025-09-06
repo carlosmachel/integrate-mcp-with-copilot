@@ -1,14 +1,14 @@
-# Prettier Interface
-
-Now that we have many activities, the list on the left is too long so it is hard to navigate. And the add dialog is far away from the activity.
-
-- Move the cards to the bottom
-
-- Remove the registration form and replace it with a "register student" button on each activity card.
-
-- Make sure it looks good on desktop and phone.
-
------ COMMENTS -----
-I second this idea. I'm having trouble finding my activity.
-100% support this. Nice idea! Looking forward to the update.
-Don't forget about tablet's too.
+# Interface mais agradável  
+   
+Agora que temos muitas atividades, a lista à esquerda está muito longa e fica difícil navegar. E a janela de cadastro está distante da atividade.  
+   
+- Mover os cartões para a parte inferior  
+   
+- Remover o formulário de inscrição e substituir por um botão "registrar aluno" em cada cartão de atividade.  
+   
+- Garantir que fique visualmente agradável tanto no desktop quanto no celular.  
+   
+----- COMENTÁRIOS -----  
+Eu apoio essa ideia. Estou tendo dificuldade para encontrar minha atividade.    
+100% apoio. Ótima ideia! Ansioso pela atualização.    
+Não esqueçam dos tablets também.

@@ -15,7 +15,7 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  REVIEW_FILE: ".github/steps/x-review.md"
+  REVIEW_FILE: ".github/steps/x-review-br.md"
 
 jobs:
   find_exercise:

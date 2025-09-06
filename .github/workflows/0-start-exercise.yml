@@ -11,7 +11,7 @@ permissions:
   issues: write # Create issue and comment on issues
 
 env:
-  STEP_1_FILE: ".github/steps/1-step.md"
+  STEP_1_FILE: ".github/steps/1-step-br.md"
 
 jobs:
   start_exercise:
@@ -21,7 +21,7 @@ jobs:
     uses: skills/exercise-toolkit/.github/workflows/start-exercise.yml@v0.6.0
     with:
       exercise-title: "Integrate MCP with Copilot"
-      intro-message: "This exercise will help you learn how to expand GitHub Copilot's capabilities with Model Context Protocol (MCP)."
+      intro-message: "Este exercício vai ajudar você a aprender como expandir as capacidades do GitHub Copilot com o Model Context Protocol (MCP)."
 
   post_next_step_content:
     name: Post next step content

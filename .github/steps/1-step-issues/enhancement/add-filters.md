@@ -1,15 +1,15 @@
-# Add filters
-
-There seems to be no order to the activities. Please fix this.
-
-Here are my ideas, maybe in a toolbar above the activity cards.
-
-- Add some filters, for example by category. If needed, add a field to the JSON.
-- Add options to sort, for example by name or time. If needed, add a date field but leave the textual description version of the time.
-- Add a free text search.
-
-Obviously, make sure it still looks good on desktop and phone.
-
------ COMMENTS -----
-This will be so useful. We should be proactive and do this before the list gets even longer.
-Let's do it! I would love to help out. I just took a coding class. 🤓
+# Adicionar filtros  
+   
+Parece que não há ordem nas atividades. Por favor, corrija isso.  
+   
+Aqui estão minhas ideias, talvez em uma barra de ferramentas acima dos cartões de atividades.  
+   
+- Adicionar alguns filtros, por exemplo por categoria. Se necessário, adicione um campo no JSON.  
+- Adicionar opções de ordenação, por exemplo por nome ou horário. Se necessário, adicione um campo de data, mas mantenha a versão textual da descrição do horário.  
+- Adicionar uma busca por texto livre.  
+   
+Obviamente, certifique-se de que continue com uma boa aparência tanto no desktop quanto no celular.  
+   
+----- COMENTÁRIOS -----  
+Isso será muito útil. Devemos ser proativos e fazer isso antes que a lista fique ainda maior.  
+Vamos fazer! Eu adoraria ajudar. Acabei de fazer uma aula de programação. 🤓

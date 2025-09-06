@@ -11,7 +11,7 @@ permissions:
   issues: write
 
 env:
-  STEP_2_FILE: ".github/steps/2-step.md"
+  STEP_2_FILE: ".github/steps/2-step-br.md"
 
 jobs:
   find_exercise:

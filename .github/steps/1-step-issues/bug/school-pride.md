@@ -1,8 +1,8 @@
-# Missing School Pride
-
-The website is blue, but our school colors are white and lime green. Please fix this.
-
-Also, why are none of our mascots on the page?
-Please use the various options from https://octodex.github.com/
-
-Oh one more idea, I think it would look cool if the background had various Git-style branch lines slowly animating! That's easy, right?
+# Orgulho Escolar Ausente  
+   
+O site está azul, mas as cores da nossa escola são branco e verde-limão. Por favor, corrijam isso.  
+   
+Além disso, por que nenhum dos nossos mascotes está na página?    
+Por favor, usem as várias opções disponíveis em https://octodex.github.com/  
+   
+Ah, mais uma ideia: acho que ficaria legal se o fundo tivesse várias linhas de branch ao estilo Git animando lentamente! Isso é fácil, né?

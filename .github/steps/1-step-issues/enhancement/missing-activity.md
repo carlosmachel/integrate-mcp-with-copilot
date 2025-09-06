@@ -1,22 +1,22 @@
-# 🚨 Missing Activity: GitHub Skills
-
-The GitHub Skills activity announced by our principal is missing from the school activities signup page.
-
-Yesterday in the school assembly, the principal announced a new partnership with GitHub to teach students practical coding and collaboration skills. However, when I try to sign up for this activity, I can't find it on the website.
-
-I can see several other activities, like these, so I think I have access.
-
-- ✅ Chess Club
-- ✅ Programming Class
-- ✅ Gym Class
-
-## ⏱️ Timeline
-
-This is time-sensitive as the announcement mentioned registrations would close by the end of this week. Many students are eager to join. It's the first part of our [GitHub Certifications program](https://resources.github.com/learn/certifications/), which will help with college applications.
-
-## 💡 Expected Outcome
-
-The GitHub Skills activity should be added to the system and available for registration like other activities
-
-Hewbie C.
-11th Grade Student
+# 🚨 Atividade Ausente: GitHub Skills  
+   
+A atividade GitHub Skills, anunciada pelo nosso diretor, está faltando na página de inscrição das atividades escolares.  
+   
+Ontem, na assembleia da escola, o diretor anunciou uma nova parceria com o GitHub para ensinar aos alunos habilidades práticas de programação e colaboração. No entanto, quando tento me inscrever nessa atividade, não a encontro no site.  
+   
+Consigo ver várias outras atividades, como estas, então acredito que tenho acesso.  
+   
+- ✅ Clube de Xadrez    
+- ✅ Aula de Programação    
+- ✅ Aula de Ginástica    
+  
+## ⏱️ Cronograma  
+   
+Este é um assunto urgente, pois o anúncio mencionou que as inscrições se encerrariam no final desta semana. Muitos alunos estão ansiosos para participar. É a primeira parte do nosso [programa de Certificações do GitHub](https://resources.github.com/learn/certifications/), que ajudará nas candidaturas para a faculdade.  
+   
+## 💡 Resultado Esperado  
+   
+A atividade GitHub Skills deve ser adicionada ao sistema e disponibilizada para inscrição como as outras atividades.  
+   
+Hewbie C.    
+Estudante da 11ª série
